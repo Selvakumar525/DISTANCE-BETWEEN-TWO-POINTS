@@ -23,3 +23,4 @@ file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-12%2020-49-55.
 
 
 ### RESULT:
+Thus the distance of the two points is sucessfully executed and displayed.
